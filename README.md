@@ -1,9 +1,12 @@
 # IBM HR Analytics Employee Attrition & Performance
 
-This repository contains a project analyzing the **IBM HR Analytics Employee Attrition & Performance dataset**. The project includes **data preprocessing, exploratory analysis, and machine learning model training** to predict employee attrition.
+This project analyzes the **IBM HR Analytics Employee Attrition & Performance dataset**. It includes **data preprocessing, exploratory data analysis and machine learning model training** to predict employee attrition.
 
 [Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
+### Hugging Face Demo
+Try the Employee Attrition Predictor live on Hugging Face Space:
+[Employee Attrition Predictor](https://huggingface.co/spaces/minhaz-ce/Employee-Attrition-Predictor)
 
 ## Virtual Environment Setup
 
